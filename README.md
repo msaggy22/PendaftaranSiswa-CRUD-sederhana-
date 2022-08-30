@@ -1,1 +1,2 @@
-# PendaftaranSiswa-CRUD-sederhana-
+# PendaftaranSiswa-CRUD-sederhana
+# HTML,CSS and PHP Native
